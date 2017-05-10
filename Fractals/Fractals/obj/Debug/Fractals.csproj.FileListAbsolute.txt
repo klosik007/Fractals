@@ -1,0 +1,10 @@
+c:\users\pklos\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\pklos\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\pklos\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form2.resources
