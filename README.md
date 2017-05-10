@@ -1,2 +1,5 @@
 # Fractals
-Drawing fractals
+Drawing fractals. Still in development.
+
+
+
